@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Avinashp066.github.io/React-dashboard/static/css/main.fb2fa013.css",
-    "main.js": "/Avinashp066.github.io/React-dashboard/static/js/main.e052fd03.js",
-    "static/js/787.f04d8c20.chunk.js": "/Avinashp066.github.io/React-dashboard/static/js/787.f04d8c20.chunk.js",
-    "static/media/transportIcon.svg": "/Avinashp066.github.io/React-dashboard/static/media/transportIcon.654be71e906e9d7918a65f62380e2676.svg",
-    "index.html": "/Avinashp066.github.io/React-dashboard/index.html",
-    "static/media/cartIcon.svg": "/Avinashp066.github.io/React-dashboard/static/media/cartIcon.ad31a888590857c57aab3f8d2021e435.svg",
-    "static/media/houseIcon.svg": "/Avinashp066.github.io/React-dashboard/static/media/houseIcon.a0914e6ac4cf70465484ac3d1e6aea6a.svg",
-    "main.fb2fa013.css.map": "/Avinashp066.github.io/React-dashboard/static/css/main.fb2fa013.css.map",
-    "main.e052fd03.js.map": "/Avinashp066.github.io/React-dashboard/static/js/main.e052fd03.js.map",
-    "787.f04d8c20.chunk.js.map": "/Avinashp066.github.io/React-dashboard/static/js/787.f04d8c20.chunk.js.map"
+    "main.css": "/React-dashboard/static/css/main.fb2fa013.css",
+    "main.js": "/React-dashboard/static/js/main.65fecf83.js",
+    "static/js/787.f04d8c20.chunk.js": "/React-dashboard/static/js/787.f04d8c20.chunk.js",
+    "static/media/transportIcon.svg": "/React-dashboard/static/media/transportIcon.654be71e906e9d7918a65f62380e2676.svg",
+    "index.html": "/React-dashboard/index.html",
+    "static/media/cartIcon.svg": "/React-dashboard/static/media/cartIcon.ad31a888590857c57aab3f8d2021e435.svg",
+    "static/media/houseIcon.svg": "/React-dashboard/static/media/houseIcon.a0914e6ac4cf70465484ac3d1e6aea6a.svg",
+    "main.fb2fa013.css.map": "/React-dashboard/static/css/main.fb2fa013.css.map",
+    "main.65fecf83.js.map": "/React-dashboard/static/js/main.65fecf83.js.map",
+    "787.f04d8c20.chunk.js.map": "/React-dashboard/static/js/787.f04d8c20.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb2fa013.css",
-    "static/js/main.e052fd03.js"
+    "static/js/main.65fecf83.js"
   ]
 }
